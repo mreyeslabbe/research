@@ -2,13 +2,13 @@
 <!-- # <center> Matías Reyes Labbé </center> -->
 # <center> Research </center>
 
-# Spatial Slum Growth, Immigration and <br>
+<b> Spatial Slum Growth, Immigration and <br><b>
 Description <br>
 
-# Life-Cycle of Slums <br>
+<b> Life-Cycle of Slums <br><b>
 Description <br>
 
-# Microcredit access, migration <br>
+<b> Microcredit access and migration <br> <b>
 Description <br>
 
 
