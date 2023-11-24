@@ -2,7 +2,7 @@
 <!-- # <center> Matías Reyes Labbé </center> -->
 # <center> Research </center>
 
-<b> Spatial Slum Growth, Immigration and <br><b>
+<b> Spatial Slum Growth, Immigration and Public Goods provision <br><b>
 Description <br>
 
 <b> Life-Cycle of Slums <br><b>
