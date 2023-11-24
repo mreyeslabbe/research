@@ -12,7 +12,7 @@ This leads to the question of whether native and migrant population are compleme
 <i>production function of slums </i>. By using a 2019-2023 panel dataset at the slum level and a TWFE approach to
 estimate elasticities, I document that while the number of migrant and native households separately increase
 the spatial extension of slums, when considering them jointly, a negative association is found, pointing to
-migrant/native congestion effects. These results suggest immigrationinduced slum expansion is more likely to occur at the extensive margin. As underlying mechanism, I explore
+migrant/native congestion effects. These results suggest immigration-induced slum expansion is more likely to occur at the extensive margin. As underlying mechanism, I explore
 on the lack of communitary organization within slums, a public good requiring collaborative efforts between
 migrants and natives to prevent eviction, develop transitory urbanization strategies, and advocate for formal
 housing solutions. </p>
