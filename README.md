@@ -17,6 +17,7 @@ on the lack of communitary organization within slums, a public good requiring co
 migrants and natives to prevent eviction, develop transitory urbanization strategies, and advocate for formal
 housing solutions. </p>
  <br>
+<b> <i> Slides available upon request </i></b>
 
 
 
