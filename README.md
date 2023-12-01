@@ -15,7 +15,7 @@ the spatial extension of slums, when considering them jointly, a negative associ
 migrant/native congestion effects. These results suggest immigration-induced slum expansion is more likely to occur at the extensive margin. As underlying mechanism, I explore
 on the lack of communitary organization within slums, a public good requiring collaborative efforts between
 migrants and natives to prevent eviction, develop transitory urbanization strategies, and advocate for formal
-housing solutions. </p> <b> <i> Slides available upon request </i></b>
+housing solutions.  <b> <i> Slides available upon request </i></b> </p>
 
 
 
