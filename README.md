@@ -2,10 +2,10 @@
 <!-- # <center> Matías Reyes Labbé </center> -->
 # <center> Research Projects </center>
 
-<b> Spatial Slum Growth, Immigration and Public Goods provision <br></b>
+<b> Spatial Slum Growth, Immigration and Public Goods provision <br></b> <b> <i> Work in progress. Slides available upon request </i></b>
 <details>
 
-    <summary>Show/Hide</summary>
+    <summary>Show details</summary>
  <p align="justify">
 Slum-dwelling is a common alternative for housing purposes in developing economies, which are also facing
 massive international migration flows. Informal squatting is related to this phenomenon: in Chile, more
@@ -18,14 +18,9 @@ the spatial extension of slums, when considering them jointly, a negative associ
 migrant/native congestion effects. These results suggest immigration-induced slum expansion is more likely to occur at the extensive margin. As underlying mechanism, I explore
 on the lack of communitary organization within slums, a public good requiring collaborative efforts between
 migrants and natives to prevent eviction, develop transitory urbanization strategies, and advocate for formal
-housing solutions. <b> <i> Slides available upon request </i></b></p>
-
+housing solutions. </p>
 </details>
 
-    <h2>Hide A Text Block</h2>
-
-    <p id="text_block">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-    <a href="#" id="btn_text_block">Hide Text</a>
 
 
 
