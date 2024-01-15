@@ -3,6 +3,9 @@
 # <center> Research Projects </center>
 
 <b> Spatial Slum Growth, Immigration and Public Goods provision <br></b> 
+
+<center> <img src="/docs/assets/elasticities.jpeg" width="250"/> </center>
+
 <details>
     <summary>Show details</summary>
  <p align="justify">
@@ -19,7 +22,6 @@ on the lack of communitary organization within slums, a public good requiring co
 migrants and natives to prevent eviction, develop transitory urbanization strategies, and advocate for formal
 housing solutions. <b> <i> Work in progress. Slides available upon request. </i></b> </p> 
 
-<center> <img src="/docs/assets/elasticities.jpeg" width="250"/> </center>
 </details>
 
 
