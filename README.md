@@ -4,7 +4,7 @@
 
 <b> Spatial Slum Growth, Immigration and Public Goods provision <br></b> 
 
-<center> <img src="./docs/assets/elasticities.jpg" width="700"/> </center>
+<center> <img src="./docs/assets/elasticities.jpg" width="1000"/> </center>
 
 <details>
     <summary>Show details</summary>
