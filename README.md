@@ -5,8 +5,6 @@
 <b> Spatial Slum Growth, Immigration and Public Goods provision <br></b> 
 <p> <b> <i> Work in progress. Slides available upon request. </i></b> </p>
 
-<center> <img src="./docs/assets/mig_elast.jpg" width="1000"/> </center>
-
 
 <details>
     <summary>Show details</summary>
@@ -25,6 +23,8 @@ migrants and natives to prevent eviction, develop transitory urbanization strate
 housing solutions. </p> 
 
 </details>
+
+<center> <img src="./docs/assets/mig_elast.jpg" width="800"/> </center>
 
 
 
