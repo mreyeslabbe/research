@@ -18,6 +18,8 @@ migrant/native congestion effects. These results suggest immigration-induced slu
 on the lack of communitary organization within slums, a public good requiring collaborative efforts between
 migrants and natives to prevent eviction, develop transitory urbanization strategies, and advocate for formal
 housing solutions. <b> <i> Work in progress. Slides available upon request. </i></b> </p> 
+
+<center> <img src="/docs/assets/mig_elast.jpeg" width="250"/> </center>
 </details>
 
 
