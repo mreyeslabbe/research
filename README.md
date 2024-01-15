@@ -3,7 +3,9 @@
 # <center> Research Projects </center>
 
 <b> Spatial Slum Growth, Immigration and Public Goods provision <br></b>
+<details>
 
+    <summary>Show/Hide</summary>
  <p align="justify">
 Slum-dwelling is a common alternative for housing purposes in developing economies, which are also facing
 massive international migration flows. Informal squatting is related to this phenomenon: in Chile, more
@@ -18,6 +20,7 @@ on the lack of communitary organization within slums, a public good requiring co
 migrants and natives to prevent eviction, develop transitory urbanization strategies, and advocate for formal
 housing solutions. <b> <i> Slides available upon request </i></b></p>
 
+</details>
 
     <h2>Hide A Text Block</h2>
 
