@@ -3,6 +3,9 @@
 # <center> Research Projects </center>
 
 <b> Spatial Slum Growth, Immigration and Public Goods provision <br></b>
+  <a id="hide1" href="#hide1" class="hide">[Show Abstract]</a>
+  <a id="show1" href="#show1" class="show">[Hide Abstract]</a>
+  <div class="details">
  <p align="justify">
 Slum-dwelling is a common alternative for housing purposes in developing economies, which are also facing
 massive international migration flows. Informal squatting is related to this phenomenon: in Chile, more
@@ -15,7 +18,9 @@ the spatial extension of slums, when considering them jointly, a negative associ
 migrant/native congestion effects. These results suggest immigration-induced slum expansion is more likely to occur at the extensive margin. As underlying mechanism, I explore
 on the lack of communitary organization within slums, a public good requiring collaborative efforts between
 migrants and natives to prevent eviction, develop transitory urbanization strategies, and advocate for formal
-housing solutions.  <b> <i> Slides available upon request </i></b> </p>
+housing solutions.    
+  </div> 
+ <b> <i> Slides available upon request </i></b> </p>
 
 
 
