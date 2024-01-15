@@ -2,7 +2,7 @@
 <!-- # <center> Matías Reyes Labbé </center> -->
 # <center> Research Projects </center>
 
-<b> Spatial Slum Growth, Immigration and Public Goods provision <br></b> <b> <i> Work in progress. Slides available upon request </i></b>
+<b> Spatial Slum Growth, Immigration and Public Goods provision <br></b> 
 <details>
 
     <summary>Show details</summary>
@@ -21,7 +21,7 @@ migrants and natives to prevent eviction, develop transitory urbanization strate
 housing solutions. </p>
 </details>
 
-
+<b> <i> Work in progress. Slides available upon request. </i></b>
 
 
  Go back to [Personal Site](https://mreyeslabbe.github.io/)
