@@ -3,6 +3,9 @@
 # <center> Research Projects </center>
 
 <b> Spatial Slum Growth, Immigration and Public Goods provision <br></b> 
+<p> <b> <i> Work in progress. Slides available upon request. </i></b> </p>
+
+<center> <img src="./docs/assets/mig_elast.jpg" width="1000"/> </center>
 
 
 <details>
@@ -19,11 +22,10 @@ the spatial extension of slums, when considering them jointly, a negative associ
 migrant/native congestion effects. These results suggest immigration-induced slum expansion is more likely to occur at the extensive margin. As underlying mechanism, I explore
 on the lack of communitary organization within slums, a public good requiring collaborative efforts between
 migrants and natives to prevent eviction, develop transitory urbanization strategies, and advocate for formal
-housing solutions. <b> <i> Work in progress. Slides available upon request. </i></b> </p> 
+housing solutions. </p> 
 
 </details>
 
-<center> <img src="./docs/assets/mig_elast.jpg" width="1000"/> </center>
 
 
 
